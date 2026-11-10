@@ -43,7 +43,6 @@ button:hover {
 
 .product-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0;
 }
 
 @media (max-width: 768px) {
